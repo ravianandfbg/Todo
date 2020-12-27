@@ -128,3 +128,18 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+
+/* footer section styling */
+footer{
+    background: #111;
+    padding: 20px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span strong{
+    color:crimson
+    
+}
+footer span strong:hover{
+    text-decoration: none;
+}
